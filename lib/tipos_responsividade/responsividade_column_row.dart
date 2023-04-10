@@ -12,10 +12,6 @@ class _ResponsividadeColumnAndRowState
     extends State<ResponsividadeColumnAndRow> {
   @override
   Widget build(BuildContext context) {
-    ///Para ficar uma melhor vizualização vamos criar duas variaveis de largura e altura
-    var width = MediaQuery.of(context).size.width;
-    var height = MediaQuery.of(context).size.height;
-
     return Scaffold(
       appBar: AppBar(
         title: const Text('Responsividade Column and Row'),
