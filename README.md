@@ -1,16 +1,5 @@
 # responsiveness
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Repositório criado com o intuito de aprender sobre responsividades de telas no Flutter,
+e como aplicação algumas funções ou métodos para termos uma melhor qualidade no desempenho do aplicativo.
+Podendo ser usado para Mobile e Web.
