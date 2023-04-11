@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'tipos_responsividade/responsividade_layout_builder.dart';
+import 'package:responsiveness/exemplo_loja_virtual/vitual_store.dart';
 
 void main() {
   runApp(
@@ -10,7 +10,8 @@ void main() {
       // home: ResponsividadeColumnAndRow(),
       // home: ResponsividadeWrap(),
       // home: ResponsividadeOrientationBuilder(),
-      home: ResponsividadeLayoutBuilder(),
+      // home: ResponsividadeLayoutBuilder(),
+      home: LojaVirtual(),
     ),
   );
 }
