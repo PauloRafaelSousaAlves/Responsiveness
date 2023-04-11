@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsiveness/tipos_responsividade/responsividade_orientation_builder.dart';
+import 'tipos_responsividade/responsividade_layout_builder.dart';
 
 void main() {
   runApp(
@@ -9,7 +9,8 @@ void main() {
       // home: ResponsividadeMediaQuery(),
       // home: ResponsividadeColumnAndRow(),
       // home: ResponsividadeWrap(),
-      home: ResponsividadeOrientationBuilder(),
+      // home: ResponsividadeOrientationBuilder(),
+      home: ResponsividadeLayoutBuilder(),
     ),
   );
 }
