@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsiveness/exemplo_loja_virtual/vitual_store.dart';
-import 'package:responsiveness/tipos_responsividade/responsividade_text.dart';
+import 'package:responsiveness/Exemplos%20praticos%20dos%20conceitos/responsividade_constraints.dart';
 
 void main() {
   runApp(
@@ -12,8 +11,9 @@ void main() {
       // home: ResponsividadeWrap(),
       // home: ResponsividadeOrientationBuilder(),
       // home: ResponsividadeLayoutBuilder(),
-       home: ResponsividadeText(),
-      //home: LojaVirtual(),
+      // home: ResponsividadeText(),
+      // home: LojaVirtual(),
+      home: ResponsividadeConstraints(),
     ),
   );
 }
