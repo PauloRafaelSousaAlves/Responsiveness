@@ -55,7 +55,10 @@ class _ResponsividadeWrapState extends State<ResponsividadeWrap> {
               color: Colors.black,
             ),
             Container(
-                width: widthWrap, height: heigthWrap, color: Colors.yellow),
+              width: widthWrap,
+              height: heigthWrap,
+              color: Colors.yellow,
+            ),
           ],
         ),
       ),
