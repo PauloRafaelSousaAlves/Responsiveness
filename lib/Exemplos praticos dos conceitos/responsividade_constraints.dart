@@ -13,6 +13,9 @@ class _ResponsividadeConstraintsState extends State<ResponsividadeConstraints> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      /// PARA CONSEGUIR VISUALIZAR CADA METODO EM ESPECIFICO,
+      /// É SÓ DESCOMENTAR O METODO DESEJADO E COMENTAR O METODO QUE ESTAVA SELECIONADO PARA APARECER:
+
       body: Center(
         // child: _bodyConstrainedBox(),
         // child: _bodyUnconstrinedBox(),
